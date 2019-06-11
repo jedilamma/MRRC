@@ -1,0 +1,11 @@
+Rego,Make,Model,Year,VehicleClass,NumSeats,Transmission,Fuel,GPS,SunRoof,Colour,DailyRate
+123HCB,Mazda,3,2000,Economy,4,Automatic,Petrol,False,False,Red,50
+897HOI,Mitsubishi,ASX,2010,Family,4,Manual,Petrol,False,False,Red,80
+809POI,Audi,A3 Cabriolet,2018,Luxury,2,Manual,Petrol,False,False,White,120
+999QWJ,Honda,Odyssey,2014,Commercial,8,Automatic,Diesel,False,False,Grey,130
+735JHY,Toyota,Torago,2005,Family,6,Automatic,Petrol,False,False,Yellow,75
+917ALF,Toyota,Torago,2017,Family,6,Manual,Diesel,True,False,White,90
+992ABH,Toyota,Torago,2005,Family,6,Automatic,Diesel,False,False,Red,75
+445AGF,Toyota,Torago,2005,Family,6,Automatic,Diesel,False,False,White,75
+225TRG,Mazda,6,2006,Luxury,5,Manual,Petrol,False,False,Red,150
+252NJH,Mazda,6,2006,Luxury,5,Manual,Petrol,False,False,White,150
